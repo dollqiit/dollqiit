@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Nourish Me - Alimentos Saludables</title>
+</head>
+<body style="background-color: pink;">
+    <h1>Nourish Me</h1>
+    <h2>Colegio Mexicano Los Ángeles, Huehuetoca, México</h2>
+    <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80" alt="Platillo Saludable" width="300">
+    <p>
+        ¡Bienvenido a Nourish Me! Ofrecemos alimentos saludables para la comunidad escolar. <br>
+        Nuestro objetivo es ayudar a tener mejores hábitos alimenticios.
+    </p>
+    <h3>Menú</h3>
+    <ul>
+        <li>Ensalada de frutas</li>
+        <li>Sándwich integral</li>
+        <li>Yogurt natural</li>
+        <li>Wrap vegetariano</li>
+        <li>Agua y jugos naturales</li>
+    </ul>
+    <h3>Ubicación</h3>
+    <iframe 
+        src="https://www.google.com/maps?q=Colegio+Mexicano+Los+Ángeles,+Huehuetoca,+México&output=embed"
+        width="350" height="250" style="border:0;" allowfullscreen="" loading="lazy">
+    </iframe>
+</body>
